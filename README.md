@@ -1,6 +1,6 @@
 # Optimized Map Pathfinding: Dijkstra & A*
 
-This project implements high-performance versions of **Dijkstra’s Shortest Path Algorithm** and ** A* Search** specifically optimized for large-scale geographic maps. It focuses on reducing computational overhead through specialized data structures and heuristic search strategies.
+This project implements high-performance versions of **Dijkstra’s Shortest Path Algorithm** and **A Star Search** specifically optimized for large-scale geographic maps. It focuses on reducing computational overhead through specialized data structures and heuristic search strategies.
 
 ---
 
